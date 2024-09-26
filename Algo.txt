@@ -1,3 +1,4 @@
 Step 1: Choose Pizza place
 Step 2: Choose your ZA
+Step 2a: Choose your toppings
 Step 3: Order and tear that boi up
